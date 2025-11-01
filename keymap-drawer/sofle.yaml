@@ -101,7 +101,7 @@ layers:
   - DEL
   - BSPC
   - {t: ▽, type: trans}
-  - UNDO
+  - Sft+Gui+4
   - CUT
   - COPY
   - PASTE
